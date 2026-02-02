@@ -12,3 +12,6 @@
 /npm/win32-x64/
 
 .opencode
+
+# Nix build output
+result
